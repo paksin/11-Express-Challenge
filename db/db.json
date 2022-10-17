@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Shopping List",
+        "text": "Apples\nBananas\nLoaf\nGround Beef\nLettuce\nTomato\nPotato",
+        "id": "e4ab"
+    },
+    {
+        "title": "School Notes",
+        "text": "CRUD:\n\nCREATE\nREAD\nUPDATE\nDELETE",
+        "id": "1092"
+    },
+    {
+        "title": "Prior work examples",
+        "text": "My Personal Site ~ A brief introduction of Pak Sin (https://paksin.github.io/My-Site/)\nCV Website ~ Outline of my skills, work, and education experience (https://paksin.github.io/cv/)\nTinDog ~ Demo product page for the “TinDog” app (https://paksin.github.io/TinDog/)\nDice Roll ~ Mini game for rolling dice (https://paksin.github.io/Dice/)\nDrums ~ Interactive drums played with keyboard or mouse clicks(https://paksin.github.io/Drums/)\nWeb Design ~ Mock up for A Hotel’s website (https://www.canva.com/design/DAFCmI7QQ_Q/KNSwi3HrwHh_L4fmiuqDnw/view?website#4:a-hotel)\nSimon ~ Web version of a retro Simon game (https://paksin.github.io/Simon-Game/)",
+        "id": "1e4c"
+    }
+]
